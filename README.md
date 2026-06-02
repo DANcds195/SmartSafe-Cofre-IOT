@@ -9,7 +9,6 @@ O SmartSafe é um sistema de segurança desenvolvido utilizando Arduino Uno, tec
 - Daniel Cardoso da Silva
 - Yan Rodrigues Lopes
 - Milena Ues Rodrigues
-- Carlos Daniel Major Freitas
 - Matheus Coutinho
 
 ## Empresa
